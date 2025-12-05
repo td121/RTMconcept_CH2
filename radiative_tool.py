@@ -7,6 +7,7 @@ import scipy.special as sp
 st.set_page_config(page_title="AHL Ch.2: Radiative Transfer Demo", layout="wide")
 st.title("Chapter 2: Radiative Processes & Remote Sounding")
 st.markdown("*Interactive demo for Andrews, Holton, & Leovy*")
+st.markdown("Author: Tong DING (tongding.japan@gmail.com), The University of Tokyo (Imamura & Aoki Lab)")
 
 
 # --- Tabs for different concepts ---
