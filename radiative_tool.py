@@ -249,7 +249,7 @@ with tab3:
 # ==========================================
 # TAB 4: LBL INTEGRATION (FELS & SCHWARZKOPF MATRIX)
 # ==========================================
-with tab4: # Add this to your tab list definition at the top too!
+with tab4: 
     st.header("The Fels & Schwarzkopf (1981) Approach")
     st.markdown("""
     **The Problem:** Integrating 100,000 spectral lines for $CO_2$ every few seconds is impossible for a climate model.
